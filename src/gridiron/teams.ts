@@ -19,7 +19,7 @@ export const PREDEFINED_TEAMS: Record<string, GridironTeam> = {
       {
         name: 'Jalen Coker',
         position: 'WR',
-        stats: { speed: 78, strength: 68, agility: 82 }
+        stats: { speed: 87, strength: 68, agility: 82 }
       },
       {
         name: 'Jaycee Horn',
